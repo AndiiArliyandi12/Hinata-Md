@@ -1757,11 +1757,6 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
  あ ${prefix}emojimix
  あ ${prefix}emojimix2
  あ ${prefix}tovideo
- あ ${prefix}togif
- あ ${prefix}tovn
- あ ${prefix}tomp3
- あ ${prefix}toaudio
- あ ${prefix}smeme
  
  *Owner Menu*
  あ ${prefix}react [emoji]
